@@ -1,3 +1,4 @@
+:orphan:
 
 April 2015 is "adopt pytest month"
 =============================================
